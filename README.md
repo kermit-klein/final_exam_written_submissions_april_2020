@@ -64,3 +64,11 @@ Since we are integrating regularly, there is less back-tracking to find the prob
 #### Accceptance/E2E/Feature Tests
 
     With Acceptance,E2E and Feature tests, developer tests the application by interacting with it just like a real user would do, since this combines many parts of code base, this is also an integration test. This type of testing is driven by Behaviour Driven Development, you design your test as how a user would your application. You are making sure the application is not broken in a such way that a user might notice.
+
+### Scrum vs Kanban
+
+Kanban is a task oriented management flow, where taks are prioritized in a queue and worked on until they'r done. It's very well suited to manufacturing and IT or any group that does as-needed work.
+Scrum is a story/goal oriented workflow focused on the needs of end users as determined by product owners in the business. Large scale user-stories are broken down into discrete pieces of work then completed.
+The biggest difference between the two is that Scrum is tailored to estimating and working on large-scale projects by completing small quantities of useful work that eventually completes a bigger picture idea for the business while Kanban is about fixing specific issues or doing specific work that are themselves the goal.
+
+We practiced Scrum in our projects, but I can tell that Bugfixing and Chores during our projects can be done using Kanban because It focuses on getting the most important thing done as quickly as possible and moving things to done. I believe Kanban will make us move faster among bugs and other non-user scoped related issues.
